@@ -23,7 +23,7 @@ def generate_transcription(source, last_sample):
     transcription = speech_to_text(file_path)
     translation = translate_text(transcription)
     save_transcription(transcription, "User")
-    return transcription, ""
+    return transcription, translation
 
 def transcription_loop(source, phrase_timeout):
     global data_buffer

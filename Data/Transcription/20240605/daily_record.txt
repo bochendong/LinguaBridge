@@ -1,0 +1,28 @@
+[20240605145128]: (None) Hi, this is Adam.
+ 
+[20240605145131]: (None) Google and I'm today's interviewer. I'm here to ask you
+ 
+[20240605145134]: (None) from Google, and I'm today's interviewer. I'm here to ask you some basic machine learning questions.
+ 
+[20240605145137]: (None) from Google, and I'm today's interviewer. I'm here to ask you some basic machine learning questions. I'm going to ask you about the.
+ 
+[20240605145140]: (None) the difference between machine learning and deep learning. Can you list one?
+ 
+[20240605145143]: (None) the difference between machine learning and deep learning. Can you list one or two key differences?
+ 
+[20240605145146]: (None) the difference between machine learning and deep learning. Can you list one or two key differences between machine learning and deep learning?
+ 
+[20240605145211]: (None) Hi, this is Adam.
+ 
+[20240605145214]: (None) Hi, this is Adam. I'm from Google, and I'm today's
+ 
+[20240605145217]: (None) Hi, this is Adam. I'm from Google, and I'm today's interviewer. I'm here to ask
+ 
+[20240605145219]: (None) Hi, this is Adam. I'm from Google and I'm today's interviewer. I'm here to ask you some basic machine learning questions.
+ 
+[20240605145222]: (None) Hi, this is Adam. I'm from Google and I'm today's interviewer. I'm here to ask you some basic machine learning questions. Can you tell me some...
+ 
+[20240605145225]: (None) Hi, this is Adam. I'm from Google and I'm today's interviewer. I'm here to ask you some basic machine learning questions. Can you tell me some, can you list two, one or two key difference from
+ 
+[20240605145228]: (None) machine learning and deep learning.
+ 
