@@ -1,4 +1,5 @@
-# RealTimeSpeechRecognition
+# LinguaBridge
+Real-Time Speech Recognition and Translation Project
 
 ## 👋 Introduction
 
