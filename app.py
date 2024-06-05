@@ -21,7 +21,7 @@ def generate_transcription(source, last_sample):
     file_path = save_audio(wav_data)
 
     transcription = speech_to_text(file_path)
-    # translation = translate_text(transcription)
+    translation = translate_text(transcription)
     save_transcription(transcription, "User")
     return transcription, ""
 
